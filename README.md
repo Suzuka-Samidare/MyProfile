@@ -22,6 +22,8 @@
 
 - miwa
 - Perfume
+- SHE IS SUMMER （MICO）
+- PIZZICATO FIVE
 
 - Outasight
 
