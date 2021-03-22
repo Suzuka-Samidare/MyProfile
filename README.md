@@ -13,7 +13,7 @@
 - ジーン・オータス
 - 比企谷八幡
 
-## Artist
+### Artist
 - 星野源
 - 山下達郎
 - tofubeats
@@ -27,17 +27,21 @@
 
 - Outasight
 
-## Actor
+### Music
+- M@STERPIECE - 765Production
+  - 自身の人生感と照らし合わせてグッときた & ７６５ASは神。
+- Golden Time - 堀江由衣
+  - ウキウキなテンポと、優しいポップ音色で恋心を歌っているのが最&高。
+
+### Actor
 - 大泉洋
 - 藤井隆
 
-## Voice Actor
+### Voice Actor
 - 沼倉愛美
 - 峯田茉優
 - 伊藤美来
 - 花澤香菜
-- 
-
 - 下野紘
 - 津田健次郎
 - 中村悠一
